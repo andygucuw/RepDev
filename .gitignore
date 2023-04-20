@@ -1,7 +1,7 @@
 *.class
 helpmenu.conf
 repdev.conf
-
+bin/
 
 #ignore thumbnails created by windows
 Thumbs.db
